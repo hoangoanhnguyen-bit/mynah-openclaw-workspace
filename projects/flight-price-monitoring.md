@@ -11,9 +11,10 @@ Hybrid approach:
 
 Current status:
 - Oanh has set Google Flights alerts in her own browser/account.
-- Chromium is installed on the OpenClaw host and browser doctor detects it.
-- Browser `open` still times out even after gateway restart; browser plugin can see Chromium but is not launching pages reliably yet. Need further browser-plugin diagnosis later.
-- In the meantime, use Google Flights alert emails/screenshots plus manual web sanity checks.
+- Chromium is installed on the OpenClaw host.
+- Browser automation now works after installing missing system libraries and setting `browser.noSandbox: true` in OpenClaw config.
+- Mynah can use browser checks for Google Flights and dynamic job pages, but should not set Google Flights alerts from the cloud browser because alerts are tied to Oanh's logged-in Google account.
+- Use Google Flights alert emails/screenshots plus Mynah browser sanity checks.
 
 ## Quality filters
 
