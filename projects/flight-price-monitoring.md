@@ -9,10 +9,11 @@ Hybrid approach:
 - Mynah sanity-checks so alerts for undesirable/crappy airlines do not trigger bad recommendations.
 - Flag reasonable fares separately from cheapest-but-bad fares.
 
-Current blocker:
-- Need live fare baseline from Google Flights or airline sites.
-- Browser automation is currently blocked on this host: no supported browser found / no Chromium executable detected.
-- Fix later by installing/configuring Chromium on the OpenClaw host or using Oanh's local logged-in browser.
+Current status:
+- Oanh has set Google Flights alerts in her own browser/account.
+- Chromium is installed on the OpenClaw host and browser doctor detects it.
+- Browser `open` still times out even after gateway restart; browser plugin can see Chromium but is not launching pages reliably yet. Need further browser-plugin diagnosis later.
+- In the meantime, use Google Flights alert emails/screenshots plus manual web sanity checks.
 
 ## Quality filters
 
