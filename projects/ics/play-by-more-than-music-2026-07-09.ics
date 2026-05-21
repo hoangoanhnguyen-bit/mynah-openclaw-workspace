@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//OpenClaw//Mynah//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:play-more-than-music-20260709T193000@openclaw
+DTSTAMP:20260521T075300Z
+DTSTART;TZID=Asia/Singapore:20260709T193000
+DTEND;TZID=Asia/Singapore:20260709T210000
+SUMMARY:PLAY! by More than Music
+LOCATION:Esplanade Recital Studio, Singapore
+DESCRIPTION:More Than Music welcomes back guitarist Kevin Loh for a musical reunion with Jun Hong, Pei-Sian and Abigail. The concert places the guitar centrestage, showcasing the virtuosity and versatility of the instrument in combinations with violin, cello and piano.\n\nPerformers:\nKevin Loh, guitar\nLoh Jun Hong, violin\nNg Pei Sian, cello\nAbigail Sin, piano\n\nProgramme:\nFritz Kreisler: 3 Viennese Dances for violin and guitar\nSérgio Assad: Menino for cello and guitar\nKacper Madejek: Shred for cello and guitar\nMáximo Diego Pujol: Dos Aires for violin and guitar\nMario Castelnuovo-Tedesco: Fantasia for guitar and piano\nDmitri Shostakovich: 5 pieces, arr. violin, cello and guitar
+END:VEVENT
+END:VCALENDAR

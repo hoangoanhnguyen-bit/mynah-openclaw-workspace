@@ -1,17 +1,31 @@
-# Ignore everything by default
-*
-
-# But keep this gitignore
-!.gitignore
-
-# Allow Paper & Pixel project
-!projects/
-!projects/paper-pixel/
-!projects/paper-pixel/**
-
-# Still ignore junk/secrets inside projects
+# Secrets / local OpenClaw runtime state
+.openclaw/
+.clawhub/
 **/.env
-**/.DS_Store
+**/.env.*
+**/secrets.*
+**/*token*
+**/*credentials*
+**/oauth*
+**/cache*
+
+# Dependencies / build outputs
 **/node_modules/
 **/dist/
 **/build/
+**/.next/
+**/__pycache__/
+**/*.pyc
+
+# OS/editor junk
+.DS_Store
+**/.DS_Store
+.vscode/
+.idea/
+
+# Runtime/generated memory internals
+memory/.dreams/
+
+# Large/generated media if any
+media/
+*.log
