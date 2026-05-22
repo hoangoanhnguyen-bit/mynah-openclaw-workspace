@@ -47,6 +47,7 @@ Examples include:
 - **StencilCV / Reso** — an AI career application engine that turns one master profile plus a job description into fit analysis, application strategy, tailored CVs, cover letters, and interview prep.
 - **Ink Radicals** — a Chinese character learning tool built around semantic and phonetic components rather than rote memorization.
 - **ChromaClef** — a playful music composition and notation learning tool.
+- **Zesca** — a lightweight AI-assisted video creation tool for F&B and small businesses, turning photos and short clips into social-ready reels without the editing headache.
 - **Plinthica** — competition discovery and verification agents for students and families navigating opaque enrichment/admissions ecosystems.
 - **Paper & Pixel Playbook** — a guide for non-technical parents to build games with their children using AI.
 - **AI-assisted learning games** — small games co-designed with children, exploring how AI can turn imagination into playable systems.
@@ -65,7 +66,7 @@ I am a senior Google product/operator turned AI-native builder.
 
 At Google Play & Android, I lead global launches and AI-powered review automation in a regulated, high-scale environment. Outside Google, I run Paper & Pixel, a small studio where I build AI-native tools for learning, creativity, and high-stakes personal decisions.
 
-Recent products include StencilCV/Reso, an AI career application engine; Ink Radicals, a Chinese character learning tool; ChromaClef, a music learning tool; Plinthica, competition discovery and verification agents; and a playbook that helps non-technical parents build games with their children using AI.
+Recent products include StencilCV/Reso, an AI career application engine; Ink Radicals, a Chinese character learning tool; ChromaClef, a music learning tool; Zesca, a lightweight AI-assisted video creation tool for F&B and small businesses; Plinthica, competition discovery and verification agents; and a playbook that helps non-technical parents build games with their children using AI.
 
 My work sits at the intersection of product judgment, AI-assisted building, learning design, and operational scale. I am especially interested in AI products that give non-technical people more agency: to learn, create, explore, and make better decisions.
 
@@ -82,6 +83,7 @@ Built and launched a portfolio of AI-native tools for learning, creativity, and 
 - Built **StencilCV / Reso**, an AI career application engine that analyzes job descriptions, identifies candidate positioning gaps, and generates tailored CVs, cover letters, and interview prep from a single master profile.
 - Built **Ink Radicals**, a Chinese character learning tool based on semantic and phonetic components rather than rote memorization.
 - Built **ChromaClef**, a creative music learning tool for composition and notation exploration.
+- Built **Zesca**, a lightweight AI-assisted video creation tool for F&B and small businesses, turning existing photos and short clips into social-ready reels without requiring video-editing expertise.
 - Developed **Plinthica**, competition discovery and verification agents for students and families navigating opaque enrichment/admissions ecosystems.
 - Created **Teach Your Kid to Think With AI**, a practical playbook for non-technical parents to build games with their children using AI tools.
 - Shipped a set of AI-assisted learning games and prototypes co-designed with children, exploring AI as a tool for creative agency rather than passive screen time.
@@ -128,6 +130,7 @@ Add links or featured items for:
 - StencilCV / Reso if public or demo-ready.
 - Ink Radicals.
 - ChromaClef.
+- Zesca.
 - Plinthica when ready.
 
 If possible, create a one-page portfolio link and feature it near the top.
