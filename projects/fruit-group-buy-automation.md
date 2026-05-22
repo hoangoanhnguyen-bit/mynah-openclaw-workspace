@@ -33,6 +33,7 @@ Access method:
 - Service account email: `openclaw-fruit-sheets@openclaw-bot-496808.iam.gserviceaccount.com`.
 - Oanh shared the fruit spreadsheet with this service account as Editor.
 - Read-only test succeeded on 2026-05-22: fetched spreadsheet metadata and sample ranges from `Template (duplicate)` and `15 May - Oanh`.
+- Write test succeeded on 2026-05-22: created scratch tab `Mynah test` and wrote/read harmless sample data in `A1:C3`.
 
 Security notes:
 - Do not commit service account JSON or raw neighbor/payment data to GitHub.
