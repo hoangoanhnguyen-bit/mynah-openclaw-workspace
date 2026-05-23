@@ -29,3 +29,9 @@ memory/.dreams/
 # Large/generated media if any
 media/
 *.log
+
+# Private local templates / sensitive contact details
+private/
+
+# Nested/private project checkouts
+projects/options-samurai-exporter/

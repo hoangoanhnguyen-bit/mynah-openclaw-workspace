@@ -10,7 +10,7 @@ The group is split across two condos, Faber Crest and Clementi Park. They order 
 
 Free delivery minimum: each condo delivery block needs at least $200. Sometimes this overrides the otherwise-optimal split logic: Oanh may allocate extra boxes to a condo to hit the free-delivery threshold, then arrange fruit transfer afterward.
 
-Observed final seller-order format from 15 May example: greeting, then one delivery block per condo with condo/contact details, each item as `<box count>x <description>`, then `Total N ctns`, then optional delivery note. In that example Faber Crest had 11 cartons and Clementi Park had 8 cartons. Do not store raw phone numbers/addresses in project notes unless explicitly needed.
+Observed final seller-order format from 15 May example: greeting, then one delivery block per condo with condo/contact details, each item as `<box count>x <description>`, then `Total N ctns`, then optional delivery note. In that example Faber Crest had 11 cartons and Clementi Park had 8 cartons. Final seller orders must always include each condo's address, contact phone number, and contact name. Raw contact details are stored only in the local private template at `private/fruit-seller-order-template.md`, which is gitignored; do not commit them.
 
 Fruit exchange list: after whole boxes are assigned to each condo for delivery, Oanh sends a short list of the loose quantities that must be ferried to the other condo so final distribution matches individual orders. Format is usually `For FC` and `For CP` sections, with quantities like `22 peaches`, `3 pkts grapes`, `1.5kg cherries`. These are not seller order lines; they are transfer instructions for the volunteer.
 
