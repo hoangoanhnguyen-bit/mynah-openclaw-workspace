@@ -22,17 +22,20 @@ Strong:
 - AI health / regulated public good.
 - Creative AI / interactive learning.
 - Founder, creator, family, or student-facing AI products.
+- High-stakes personal decision-support tools, including wealth-tech / AI financial planning / investment insights products.
 - Internal AI tools with real product ownership.
 
 Bridge:
 - Agentic workflow / AI transformation if implementation-heavy and senior.
 - Google internal L6+ AI roles if team/comp are strong.
+- Wealth-tech, family office tech, investment insights, advisor AI, financial planning product, or fintech AI roles where Oanh is product/operator/builder rather than private banker/salesperson.
 
 Avoid:
 - Generic strategy & ops.
 - Chief of staff / product ops.
 - GTM-only / sales-support AI roles.
 - Generic AI adoption workshops/change-management consulting.
+- Traditional wealth management/private banking/relationship-manager roles focused on AUM gathering, cold sales, licensing ladder, or serving HNW anxiety without product/tool-building.
 - Junior/downlevel roles.
 
 ## Search sources
@@ -42,6 +45,7 @@ Prefer:
 - Government/public-sector AI orgs: GovTech, MOE, MOHT, HTX, etc.
 - Universities / learning orgs.
 - AI startups and VC portfolio job boards.
+- Wealth-tech / financial decision-support sources when scanning that lane: GIC investment insights/product roles, Endowus, Syfe, StashAway, Kristal.AI, BetterTradeOff, family office tech/ARK Wealth-like roles, advisor-AI tools, fintech AI/product roles.
 - Recruiter/hiring manager posts.
 - LinkedIn as a lead source only; verify elsewhere when possible.
 

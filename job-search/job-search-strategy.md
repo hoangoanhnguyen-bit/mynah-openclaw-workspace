@@ -45,7 +45,7 @@ This should be framed as practical AI implementation/workflow design, not generi
 
 ### 1. Best-fit jobs
 
-AI product roles in education, health, public good, learning, creativity.
+AI product roles in education, health, public good, learning, creativity, and high-stakes personal decision support.
 
 Examples:
 
@@ -53,6 +53,7 @@ Examples:
 - MOHT Product Manager — AI & Digital Mental Health.
 - EdTech / learning product roles.
 - Creative AI / interactive education product roles.
+- Wealth-tech / financial planning / investment insights product roles where AI helps people make better high-stakes money and life decisions.
 
 ### 2. Strategic bridge jobs
 
@@ -63,6 +64,8 @@ AI transformation / agentic workflow / internal tools roles, only if:
 - strong compensation,
 - not pure deck-making / stakeholder theater,
 - gives escape from current team without sacrificing too much energy.
+
+Wealth-tech / investment-insights / financial decision-support is a newly interesting bridge lane because Oanh enjoys managing family finances/investments and is personally wrestling with FI/off-ramp decisions. The right version is product/tooling/advisor-AI/decision support, not traditional wealth management sales.
 
 ### 3. Portfolio/business path
 
@@ -92,6 +95,7 @@ Explore a service-led lane helping non-technical people operationalize AI throug
 - Chief of staff / product ops unless survival move.
 - AI adoption/change-management workshop roles.
 - Cloud sales / GTM / account transformation roles unless comp/team are exceptional.
+- Traditional wealth management/private banking/relationship-manager roles where success is AUM gathering, client sales, licensing ladder, or reassuring rich people without building better decision tools.
 - Junior roles / downlevel roles. Oanh already downleveled once at Google and does not want to again.
 
 ## Jobs reviewed
@@ -173,6 +177,57 @@ Classification: **credible but likely not Oanh**.
 Why: fits consulting/exec roadmaps.
 
 Concern: sales support, enterprise customer workshops, roadmap/value cases. Not builder-heavy.
+
+## Wealth / financial decision-support lane
+
+Working thesis:
+
+> AI-native wealth guidance for people making life-changing decisions.
+
+Oanh's lived problem is the product insight: having enough money on paper does not automatically create permission to walk away from a high-paying but damaging job. The opportunity is not another calculator; it is decision support that connects financial models, risk, values, spouse/family conversations, identity, regret, and staged options.
+
+Search terms / roles:
+
+- AI Products, Investment Insights
+- WealthTech Product Manager
+- Financial Planning Product Manager
+- Advisor AI / advisor productivity tools
+- Client Insights / Personalization in wealth
+- Family office tech / fintech AI product
+- FIRE / career-transition / retirement decision-support products
+
+Companies/sources to watch:
+
+- GIC investment insights / AI product roles
+- Endowus, Syfe, StashAway, Kristal.AI, BetterTradeOff
+- ARK Wealth / family office tech roles, but screen carefully for culture and sales-heavy HNW servicing
+- Fintech AI/product roles that support planning, investments, or advisor workflows
+
+Jobs reviewed in this lane:
+
+### GIC — AVP/VP, Product Manager (AI Products), Investment Insights
+
+Classification: **very interesting / apply or serious explore**.
+
+Why: AI product + investment insights + Singapore + serious institution. Potentially the best overlap of finance curiosity, AI product building, and high-stakes decision support.
+
+Concern: may require investment-domain depth; verify details on GIC careers and use StencilCV to test fit.
+
+### ARK Wealth Singapore — Senior Product Manager, FinTech & AI
+
+Classification: **interesting but screen carefully**.
+
+Why: family office / wealth management / MAS-licensed / AI innovation / product delivery is directly on-lane.
+
+Concern: LinkedIn/recruiter-ish signal; may be small-firm chaos, HNW servicing, or culture mismatch. Investigate quality before investing much effort.
+
+### Product Manager — Wealth Management, PC Financial
+
+Classification: **maybe / low-effort screen**.
+
+Why: direct wealth-management product role.
+
+Concern: likely traditional wealth product/front-office support, less AI/builder, may be dull.
 
 ## Working ranking
 

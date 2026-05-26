@@ -42,3 +42,7 @@ Add whatever helps you do your job. This is your cheat sheet.
 ## Related
 
 - [Agent workspace](/concepts/agent-workspace)
+
+## Paper & Pixel repo rule
+
+Paper & Pixel materials belong in `paper-and-pixel-studio/paper-pixel-openclaw` (Paper & Pixel OpenClaw repo), not the personal/main Mynah workspace repo. Workshop decks, landing page copy, growth/sprint docs, and related content should be created/updated/pushed there as source of truth.

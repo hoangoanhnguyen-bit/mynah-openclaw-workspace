@@ -26,12 +26,17 @@
 # Runtime/generated memory internals
 memory/.dreams/
 
+# Private long-term memory loaded by main session
+MEMORY.md
+
 # Large/generated media if any
 media/
 *.log
+presentation-*.pdf
 
 # Private local templates / sensitive contact details
 private/
 
 # Nested/private project checkouts
 projects/options-samurai-exporter/
+paper-and-pixel-studio/
