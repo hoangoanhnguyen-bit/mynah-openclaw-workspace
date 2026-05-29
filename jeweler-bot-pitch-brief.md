@@ -29,7 +29,9 @@ The goal:
 
 ## What the S$1,200 minimum includes
 
-This is not just “installing a bot.” The price covers setup, customization, testing, and handover.
+This is not just “installing a bot.” The price covers setup, customization, testing, handover, and—most importantly—helping the system become part of the real follow-up routine.
+
+A useful bot that no one uses has zero value. The work is not only technical setup; it is designing a simple operating habit around active projects so deadlines and client promises stop living only in someone’s head.
 
 ### 1. Workflow diagnosis
 
@@ -105,8 +107,11 @@ We’ll test it on a small batch first:
 - 2-week pilot
 - Adjust based on what actually helps
 - Remove anything that feels too cumbersome
+- Agree on a very simple adoption rhythm, e.g. check the tracker once daily and update follow-ups after client conversations
 
 The system should fit the way you work, not force you into a heavy enterprise tool.
+
+Success is not “the bot exists.” Success is that fewer client promises are missed because the follow-up habit is actually used.
 
 ### 6. Handover and training
 
@@ -119,6 +124,8 @@ I’ll show you how to use it in plain language:
 - How to keep the tracker clean
 
 Includes a simple written guide.
+
+I’ll also help define what “using it properly” means in the first two weeks, so it does not become another abandoned tool.
 
 ## What this is not
 
@@ -136,7 +143,7 @@ The first version is deliberately lightweight. If it works, we can later extend 
 
 ## Why S$1,200 is reasonable
 
-The price is for solving an operational problem, not for “AI.”
+The price is for solving an operational problem, not for “AI.” It is also a commitment filter: if missed follow-ups are a real business pain, the pilot needs enough investment and attention to test the workflow properly.
 
 If the system prevents even a few missed follow-ups, it can quickly pay for itself by:
 
@@ -148,6 +155,8 @@ If the system prevents even a few missed follow-ups, it can quickly pay for itse
 - Helping staff know what needs attention
 
 For a jewelry business, one lost or unhappy custom client can easily cost more than S$1,200 in lost repeat business, referrals, or reputation damage.
+
+It is also far cheaper than hiring even a part-time assistant. This does not replace an assistant, but it gives some of the structure an assistant would provide: active project visibility, reminders, draft replies, and a daily follow-up rhythm.
 
 ## Suggested offer structure
 
@@ -178,7 +187,7 @@ Or:
 
 ### If she says “That’s expensive”
 
-“Totally fair. I don’t want to sell you a fancy AI thing you don’t need. The way I’d think about it is: if missed follow-ups are costing you angry clients, stress, or lost repeat business, then we test whether this prevents those slips. We can start with a small pilot on 5 active projects and only continue if it clearly helps.”
+“Totally fair. I don’t want to sell you a fancy AI thing you don’t need. The way I’d think about it is: if missed follow-ups are costing you angry clients, stress, or lost repeat business, then we test whether this prevents those slips. It’s also much cheaper than hiring admin help. We can start with a small pilot on 5 active projects and only continue if it clearly helps.”
 
 ### If she says “Can’t I just use ChatGPT?”
 
@@ -191,6 +200,10 @@ Or:
 ### If she says “I’m too busy to set this up”
 
 “That’s why I’d do the setup. I’d only need a little time upfront to understand your workflow, then we test with a few real jobs. The goal is to reduce your admin load, not add another system for the sake of it.”
+
+### If she says “I’ve tried tools before and didn’t stick with them”
+
+“That’s exactly why I don’t want to just hand you a bot and disappear. The pilot includes shaping the habit around it: what gets captured, when you check it, what reminders matter, and what is too cumbersome. The goal is adoption, not novelty.”
 
 ## Meeting script
 
